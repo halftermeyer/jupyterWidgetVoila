@@ -12,6 +12,13 @@ From Neo4j desktop...
 
 ...and load the data.
 
+Update connection data in the notebook.
+
+```python
+uri = "neo4j://localhost:7687"
+driver = GraphDatabase.driver(uri, auth=("user", "password"))
+```
+
 ## install libs
 
 ```terminal
