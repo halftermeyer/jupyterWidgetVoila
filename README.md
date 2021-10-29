@@ -12,7 +12,7 @@ From Neo4j desktop...
 
 ...and load the data.
 
-Update connection data in the notebook.
+Edit connection data in the notebook.
 
 ```python
 uri = "neo4j://localhost:7687"
