@@ -2,7 +2,7 @@
 
 Create a **dashboard** with **jupyter widgets** and **voilà**
 
-The notebook connects to Movie Graph Neo4j database.
+The notebook connects to the Movie Graph Neo4j database.
 
 From Neo4j desktop...
 
