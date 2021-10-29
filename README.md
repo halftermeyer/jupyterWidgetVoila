@@ -4,11 +4,13 @@ Create a **dashboard** with **jupyter widgets** and **voilà**
 
 The notebook connects to Movie Graph Neo4j database.
 
-From Neo4j desktop :
+From Neo4j desktop...
 
 ```cypher
 :play movie-graph
 ```
+
+...and load the data.
 
 ## install libs
 
